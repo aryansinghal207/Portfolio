@@ -89,16 +89,6 @@ i {
 p {
   color: #fff;
 }
-section .title {
-  position: relative;
-  text-align: center;
-  font-size: 30px;
-  font-weight: 500;
-  margin-bottom: 65px;
-  padding-bottom: 25px;
-  font-family: "Ubuntu", sans-serif;
-  color: #fff;
-  background: transparent;
 }
 section .title::before {
   content: "";
